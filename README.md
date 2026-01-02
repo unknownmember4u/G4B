@@ -7,7 +7,7 @@ A simple Python application to receive and display streaming data (e.g., camera 
 This project connects to an **ESP32 streaming server** (such as an ESP32-CAM) and displays received frames or data locally. It is built in Python and is easy to run with minimal setup.
 
 ## 📦 Features
-
+ 
 - Connects to an ESP32 streaming endpoint
 - Displays live data or frames in real time
 - Lightweight and easy to modify
